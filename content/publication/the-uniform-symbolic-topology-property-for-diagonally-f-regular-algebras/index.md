@@ -1,10 +1,12 @@
 ---
 title: The Uniform Symbolic Topology Property for Diagonally F-regular Algebras
 publication_types:
-  - "0"
+  - "2"
 authors:
   - JavierCarvajalRojas
   - admin
+publication: J. Algebra
+publication_short: ""
 draft: false
 featured: false
 image:
